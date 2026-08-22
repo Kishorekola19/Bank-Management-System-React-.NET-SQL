@@ -2,6 +2,23 @@
 
 A full-stack enterprise digital banking and financial management solution engineered with ASP.NET Core Web API, React (Vite & Tailwind CSS), and Entity Framework Core with SQL/SQLite database integration.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Apex%20Banking%20Portal-0052CC?style=for-the-badge&logo=react)](https://kishorekola19.github.io/Bank-Management-System-React-.NET-SQL/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Kishorekola19/Bank-Management-System-React-.NET-SQL)
+
+---
+
+## 🌐 Live Demo & Testing
+
+Experience the live application online:
+👉 **[Launch Apex Banking System Live Demo](https://kishorekola19.github.io/Bank-Management-System-React-.NET-SQL/)**
+
+### Pre-Configured Demo Accounts for Validation
+
+| Role | Username / Email | Password | Access Rights |
+| :--- | :--- | :--- | :--- |
+| **Customer** | `john.doe@bank.com` | `User@123` | Accounts, Fund Transfers, ATM Cards, Loan Applications |
+| **Administrator** | `Kishore` | `Kishore19@` | Approval Workflows, Customer Management, Audit Logs |
+
 ---
 
 ## Technical Highlights & Architecture
