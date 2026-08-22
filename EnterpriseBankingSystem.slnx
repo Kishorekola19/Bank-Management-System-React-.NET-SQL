@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/EnterpriseBankingSystem.API/EnterpriseBankingSystem.API.csproj" />
+    <Project Path="src/EnterpriseBankingSystem.Application/EnterpriseBankingSystem.Application.csproj" />
+    <Project Path="src/EnterpriseBankingSystem.Domain/EnterpriseBankingSystem.Domain.csproj" />
+    <Project Path="src/EnterpriseBankingSystem.Infrastructure/EnterpriseBankingSystem.Infrastructure.csproj" />
+  </Folder>
+</Solution>

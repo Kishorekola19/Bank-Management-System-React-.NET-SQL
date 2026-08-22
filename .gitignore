@@ -1,0 +1,23 @@
+# Visual Studio / .NET
+.vs/
+**/bin/
+**/obj/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.db
+*.db-shm
+*.db-wal
+banking.db
+
+# Node / Web Frontend
+**/node_modules/
+**/dist/
+src/EnterpriseBankingSystem.API/wwwroot/assets/
+src/EnterpriseBankingSystem.API/wwwroot/index.html
+
+# OS Generated
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
